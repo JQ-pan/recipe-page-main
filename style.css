@@ -178,4 +178,13 @@ ol span, li span, p span {
     .background {
         margin: 0;
     }
+
+    .title {
+        font-size: 6rem;
+    }
+
+    p {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
 }
