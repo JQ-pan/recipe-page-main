@@ -187,4 +187,12 @@ ol span, li span, p span {
         font-size: 2rem;
         line-height: 3rem;
     }
+
+    .preparation-time > h3 {
+        font-size: 2rem;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
 }
