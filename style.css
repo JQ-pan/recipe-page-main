@@ -175,5 +175,7 @@ ol span, li span, p span {
 }
 
 @media (min-width: (var(--mobile-width))), screen {
-
+    .background {
+        margin: 0;
+    }
 }
